@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    color: #3c3b37;
+    margin: 0;
+}
+
+div {
+    display: block;
+}
+
+body .top-head{
+	background-color:white;
+	width:100%;
+	height:72px;
+	box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 4px 12px rgba(0,0,0,.08);
+    z-index: 1010;
+}
+
+body .top-head .logo{
+	width:10%;
+	height:100%;
+	float:left;
+	padding-right:12px;
+}
+
+body .top-head .logo img{
+	padding-top:15px;
+}
+
+body .top-head .category{
+	width:10%;
+	height:100%;
+	float:left;
+}
+
+body .top-head .category p{
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-size: 20px;
+	color: #3c3b37;
+	margin-left:15%;
+	margin-top:17px;
+}
+
+
+body .top-head .search{
+	width:40%;
+	height:100%;
+	float:left;
+}
+
+body .top-head .search .example .input {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+body .top-head .search .example{
+	flex-direction: row-reverse;
+	display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+body .top-head .search .example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+}
+
+body .top-head .search .example button:hover {
+  background: #0b7dda;
+}
+
+body .top-head .search .example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+body .top-head .labels{
+	width:25%;
+	height:100%;
+	float:left;
+}
+
+body .top-head .labels p{
+	float:left;
+	padding-left:20%;
+	margin-top:17px;
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-size: 20px;
+	color: #3c3b37;
+	margin-top:17px;
+}
+
+body .top-head .icons{
+	width:15%;
+	height:100%;
+	float:left;
+}
+
+body .top-head .icons div{
+	float:left;
+	margin-top:20px;
+	padding-left:15%;
+}

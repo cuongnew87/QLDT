@@ -1,0 +1,350 @@
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe.config
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.rsp
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csi.exe
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csi.exe.config
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csi.rsp
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Buffers.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Memory.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Numerics.Vectors.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe.config
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.rsp
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Documents\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Documents\123\Quản lý đào tạo1\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+F:\VisualStudioFile\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Downloads\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Documents\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\ASPSnippets.GoogleAPI.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo 641117\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll.config
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\log4net.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Owin.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.Base.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\System.Net.Http.Extensions.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\System.Net.Http.Primitives.dll
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\System.Net.Http.Extensions.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\bin\System.Net.Http.Primitives.xml
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.App.config
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Downloads\QLDT\Quản lý đào tạo\Quản lý đào tạo\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\QLDT.dll.config
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\QLDT.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\QLDT.pdb
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.Base.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\log4net.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Owin.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\System.Net.Http.Extensions.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\System.Net.Http.Primitives.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.Base.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\System.Net.Http.Extensions.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\System.Net.Http.Primitives.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\obj\Debug\QLDT.csproj.App.config
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\obj\Debug\QLDT.pdb
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\PayPal.dll
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\Newtonsoft.Json.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\bin\PayPal.xml
+E:\Downloads\QLDT\QLDT69532\QLDT\QLDT\obj\Debug\QLDT.csprojResolveAssemblyReference.cache
+E:\Documents\QLDT\QLDT\bin\roslyn\csc.exe
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Documents\QLDT\QLDT\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Documents\QLDT\QLDT\bin\roslyn\System.Collections.Immutable.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\System.Reflection.Metadata.dll
+E:\Documents\QLDT\QLDT\bin\roslyn\vbc.exe
+E:\Documents\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe
+E:\Documents\QLDT\QLDT\bin\roslyn\VBCSCompiler.exe.config
+E:\Documents\QLDT\QLDT\bin\QLDT.dll.config
+E:\Documents\QLDT\QLDT\bin\QLDT.dll
+E:\Documents\QLDT\QLDT\bin\QLDT.pdb
+E:\Documents\QLDT\QLDT\bin\EO.Base.dll
+E:\Documents\QLDT\QLDT\bin\EO.WebBrowser.dll
+E:\Documents\QLDT\QLDT\bin\EO.WebEngine.dll
+E:\Documents\QLDT\QLDT\bin\log4net.dll
+E:\Documents\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Documents\QLDT\QLDT\bin\Microsoft.Owin.dll
+E:\Documents\QLDT\QLDT\bin\Newtonsoft.Json.dll
+E:\Documents\QLDT\QLDT\bin\Owin.dll
+E:\Documents\QLDT\QLDT\bin\PayPal.dll
+E:\Documents\QLDT\QLDT\bin\System.Net.Http.Extensions.dll
+E:\Documents\QLDT\QLDT\bin\System.Net.Http.Primitives.dll
+E:\Documents\QLDT\QLDT\bin\EO.Base.xml
+E:\Documents\QLDT\QLDT\bin\EO.WebBrowser.xml
+E:\Documents\QLDT\QLDT\bin\EO.WebEngine.xml
+E:\Documents\QLDT\QLDT\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Documents\QLDT\QLDT\bin\Microsoft.Owin.xml
+E:\Documents\QLDT\QLDT\bin\Newtonsoft.Json.xml
+E:\Documents\QLDT\QLDT\bin\PayPal.xml
+E:\Documents\QLDT\QLDT\bin\System.Net.Http.Extensions.xml
+E:\Documents\QLDT\QLDT\bin\System.Net.Http.Primitives.xml
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.csproj.App.config
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.csproj.AssemblyReference.cache
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.csproj.CopyComplete
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.dll
+E:\Documents\QLDT\QLDT\obj\Debug\QLDT.pdb

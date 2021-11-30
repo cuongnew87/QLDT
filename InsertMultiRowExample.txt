@@ -1,0 +1,16 @@
+﻿DECLARE @MyCounter as INT
+DECLARE @CourseId as INT
+
+SET @MyCounter = 1  -- 
+
+WHILE @MyCounter <= (select count(*) from Cart where student_id = 5)
+
+ BEGIN
+
+    set @CourseId = (SELECT course_id FROM (select course_id, ROW_NUMBER() OVER(ORDER BY id) AS ROW from Cart where student_id = 5) AS TMP WHERE ROW = @MyCounter)
+
+    insert into Order_history(student_id,course_id,date) values(5,@CourseId,GETDATE())
+
+    set @MyCounter = @MyCounter + 1;  -- increment counter
+
+END

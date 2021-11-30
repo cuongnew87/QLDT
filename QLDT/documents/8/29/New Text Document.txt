@@ -1,0 +1,136 @@
+cls
+cd 
+E:
+color 0A
+
+1
+99929
+
+MongoDB
+
+A. Phần 1
+1. Tạo project, cấu hình OpenCV
+2. Đọc và hiển thị ảnh
+3. Chuyển đổi:
+a. ảnh 3 kênh sang 1 kênh (ảnh xám) theo hàm hoặc theo công thức,
+b. Các mô hình màu
+c. Tách các kênh, hiển thị
+d. Hợp các kênh , hiển thị
+B. Phần 2 (2 trong số các kỹ thuật sau:)
+4. Truy cập giá trị điểm ảnh
+a. Hiển thị giá trị điểm ảnh tại tọa độ bất kỳ của ảnh 3 kênh, 1 kênh.
+b. Hiển thị giá trị mức xám lớn nhất, nhỏ nhất. trung bình trong ảnh.
+c. Hiển thị các điểm ảnh trong vùng lân cận w x w của điểm tại tọa độ bất kỳ
+5. Các kỹ thuật tăng cường ảnh
+a. Tính và vẽ histogram trên từng kênh
+b. Cân bằng histogram trên từng kênh
+c. Biến đổi ảnh âm bản của ảnh 1 kênh
+d. Tăng độ sáng của ảnh 1 kênh, 3 kênh
+e. Lọc ảnh: blur, MedianBlur, GaussianBlur với kích thước cửa sổ khác nhau trên ảnh 1
+kênh
+
+6. Tìm biên trên ảnh 1 kênh
+a. Sobel theo hướng x, Sobel theo hướng y.
+b. Canny
+c. Lapplace
+d. Kiểm tra 1 điểm bất kỳ có phải là điểm biên hay điểm nền (255/0 ?).
+7. Phân vùng trên ảnh 1 kênh
+a. Phân ngưỡng ảnh 1 kênh
+b. Tìm đường bao, vẽ đường bao
+c. Tính diện tích đường bao
+
+1. Đọc ảnh màu ra ma trận và hiển thj ảnh gốc. Ví dụ đọc ảnh meo.png ra ma tran src
+Mat src = imread("d:\\meo.png", 1);
+imshow("Anh goc", src);
+
+2. Thay đổi kích thước ảnh: Ví dụ đọc ảnh meo.png ra ma tran src, thay đổi kích thước thành (rong x cao)
+B1. Đọc ảnh ra ma trận src (như mục 1)
+B2. Thay đổi kích thước mới thành (rong, cao)
+resize(src, dst, Size(rong, cao));
+
+3. Hiển thị kênh R/G/B: Ví dụ đọc ảnh meo.png ra ma tran src, hiển thị kênh G
+B1. Đọc ảnh ra ma trận src (như mục 1)
+B2. Tách ảnh ra các kênh
+Mat kenh[3];
+split(src, kenh);
+B3. Hiển thị từng kênh theo yêu cầu(không trộn) theo thứ tự B: kenh[0]; G: Kenh[1]; R: kenh[2]
+imshow("Green",kenh[1]); //ví dụ Hien thi kenh G. Yêu cầu kênh nào thì chỉ ra kênh đó.
+
+4. Hiển thị Kênh H/S/V... (các mô hình màu khác không phải RGB): Ví dụ đọc ảnh meo.png ra ma tran src, hiển thị kênh V.
+B1. Đọc ảnh ra ma trận src (như mục 1)
+B2. Chuyển đổi ma trận ảnh sang mô hình màu
+Mat hsv;
+cvtColor(src, hsv, COLOR_RGB2HSV);
+B3. Tách thành các kênh (như B2 mục 2, chỉ thay src thành hsv)
+Mat kenh_hsv[3];
+split(hsv, kenh_hsv);
+B4. Hiển thị từng kênh theo yêu cầu(không trộn) theo thứ tự H: kenh_hsv[0]; S: Kenh_hsv[1]; V: kenh_hsv[2]
+imshow("Kenh V",kenh_hsv[2]); //ví dụ Hien thi kenh V. Yêu cầu kênh nào thì chỉ ra kênh đó.
+
+5. Chuyển đổi thành ảnh xám img theo công thức: Ví dụ đọc ảnh meo.png ra ma tran src, Chuyển đổi ảnh màu src sang ảnh đa mức xám img theo công thức: R*x+G*y+B*z
+B1. Đọc ảnh ra ma trận src (như mục 1)
+B2. Tạo ma trận ảnh 1 kênh tên là img để lưu kết quả
+Mat img(src.rows, src.cols, CV_8UC1, Scalar(0,0,0));
+B3. Tính toán kết quả trên ma trận ảnh gốc, lưu vào img (x,y,z là các hệ số cho R, G , B tương ứng. Lưu ý: [2] là kênh R, [1] là kênh G, [0] là kênh B)
+for (int i = 0; i < src.rows; i++)
+for (int j = 0; j < src.cols; j++)
+img.at(i, j) = src.at(i, j)[2] * x +
+src.at(i, j)[1] * y +
+src.at(i, j)[0] * z;
+B4. Hiển thị ảnh xám vừa tính.
+imshow("Anh xam",img);
+
+6. Tìm mức xám lớn nhất nhỏ nhất trên kênh ảnh nào đó. Ví dụ trên kênh V
+double min, max;
+minMaxLoc(kenh_hsv[2], &min, &max);
+cout <<"Max="<< max;
+7. Hiển thị chiều cao chiều rộng của ảnh
+
+
+MỨC LẤY ĐIỂM CAO HƠN: CẦN THỰC HIỆN ĐƯỢC CÁC KỸ THUẬT SAU:
+
+Các kỹ thuật tiếp theo, yêu cầu làm trên ảnh nào, kênh nào thì lưu ý chỉ sử dụng ảnh đó/ kênh đó.
+Ví dụ phân ngưỡng nhị phân trên ảnh img sử dụng ngưỡng BINARY
+Mat dst;
+threshold(img, dst, 100, 255, THRESH_BINARY);
+imshow("Phan nguong",dst);
+
+Ví dụ làm trơn trên kênh S (kenh_hsv[1])
+blur(kenh_hsv[1], dst, Size(3, 3), Point(-1, -1), 4);
+
+Các kỹ thuật khác bao gồm:
+1. Hiển thị giá trị R,G,B của điểm ảnh tại vị trí (x,y)
+2. Hiển thị giá trị mức xám trên ảnh 1 kênh của 1 điểm ảnh tại vị trí (x,y)
+3. Hiển thị giá trị mức xám của các điểm ảnh lân cận (3 x3 hoặc 5 x 5...) của điểm (x,y)
+4. Biển đổi ảnh âm bản của kênh ảnh nào đó
+5. Chuyển đổi các mô hình màu: RGB2HSV, HSV2RGB.....
+6. Cân bằng mức xám của kênh ảnh nào đó. (Trộn lại hiển thị)
+7. Tăng độ sáng của ảnh trên 1 kênh nào đó/ hoặc tăng độ sáng trên tất cả các kênh . (Trộn lại hiển thị).
+8. Tính và vẽ Histogram trên kênh ảnh nào đó
+9. Phân ngưỡng ảnh (nhị phân hóa) theo các kiểu ngưỡng khác nhau: BINARY, BINARY_INV, OTSU...
+10. Phân ngưỡng thích nghi
+11. Làm trơn ảnh theo các kỹ thuật: blur (trung bình cộng), medianblu(trung vị), gausianblur (Gausian)
+12. Xác định ảnh biên theo các kỹ thuật khác nhau: sobel (hướng x), sobel (hướng y), canny, laplacian
+13. Kiểm tra điểm ảnh tại vị trí (x,y) có phải là điểm biên hay không?
+14. Tìm được bao
+15. Tính diện tích vùng của đường bao
+16. Vẽ tất cả các đường bao
+17. Vẽ đường bao thỏa mãn điều kiện nào đó!
+
+
+Todo List:
+1)Database
+-Tables
+-Datas
+2)Dashboard
+-Add some textbox
+-Add Category
+-Edit Category
+-Search function
+3)UI
+-Cart
+-User profile
+-Display video
+-Optimize code
+
+mongodb+srv://cuongnew87:<password>@realmcluster.ku8vg.mongodb.net/test

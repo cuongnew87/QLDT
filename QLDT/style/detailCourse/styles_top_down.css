@@ -1,0 +1,291 @@
+body .top-down{
+	background-color:#1e1e1c;
+	width:100%;
+	height:400px;
+}
+
+body .top-down .left{
+	width:50%;
+	height:100%;
+	float:left;
+	margin-left:10%;
+}
+
+body .top-down .right{
+	width:30%;
+	height:100%;
+	float:left;
+}
+
+body .top-down .left .label1{
+	scroll-padding: 2.4rem;
+	display: flex;
+    flex-wrap: nowrap;
+    padding: .4rem;
+    margin: 0 -.4rem;
+    overflow: auto;
+    overflow-y: hidden;
+    scroll-snap-type: x mandatory;
+    scroll-snap-stop: always;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    -webkit-overflow-scrolling: touch;
+	margin-top:10px;
+}
+
+body .top-down .left .label1 a{
+	color:#8ed1dc;
+	padding: .4rem 0;
+    white-space: nowrap;
+    scroll-snap-align: start;
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 18px;
+	text-decoration: none;
+}
+
+body .top-down .left .label1 p{
+	color:#fff;
+	padding: .4rem 0;
+    white-space: nowrap;
+    scroll-snap-align: start;
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 18px;
+	margin-left:10px;
+	margin-right:10px;
+}
+
+body .top-down .left .label2{
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.4rem;
+}
+
+body .top-down .left .label2 h1{
+	font-size: 30px;
+    margin-bottom: .8rem;
+	max-width: 108.4rem;
+	color:#fff;
+}
+
+body .top-down .left .label3{
+    margin-bottom: 1.6rem;
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 20px;
+	color:#fff;
+}
+
+body .top-down .left .label4{
+	flex-direction: row;
+	display: flex;
+}
+
+body .top-down .left .label4 .badge{
+	margin-bottom: .8rem;
+	margin-right: .8rem;
+	border-radius: 4px;
+    display: inline-block;
+    padding: .4rem .8rem;
+    white-space: nowrap;
+	background-color: #ffe799;
+    color: #593d00;
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 13px;;
+}
+
+body .top-down .left .label4 .rating{
+	margin-right: .8rem;
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.4rem;
+	float:left;
+}
+
+body .top-down .left .label4 .rating span{
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 1.4rem;
+	float:left;
+	color: #ffc48c;
+	margin-right: .4rem;
+    color: #be5a0e;
+	font-size: 15px;
+}
+
+body .top-down .left .label5{
+	display: block!important;
+    display: -webkit-box!important;
+    -webkit-line-clamp: 2;
+    -moz-line-clamp: 2;
+    -ms-line-clamp: 2;
+    -o-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-box-orient: vertical;
+    -o-box-orient: vertical;
+    box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: normal;
+    max-height: 4.48rem;
+    flex: 1;
+    min-width: 1px;
+}
+
+body .top-down .left .label5 span{
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 15px;
+}
+
+body .top-down .left .label5 .author{
+	color: #8ed1dc;
+	height: auto;
+    vertical-align: baseline;
+    background-color:inherit;
+    border-color:none;
+    border:none;
+    cursor:pointer;
+}
+
+body .top-down .left .label6{
+	display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+body .top-down .left .label6 .update{
+	margin-bottom: .8rem;
+	display: flex;
+    margin-right: 1.6rem;
+	margin-top:5px;	
+}
+
+body .top-down .left .label6 .update p{
+	font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 400;
+    line-height: 1.4;
+    font-size: 15px;
+	margin-right:25px;
+}
+
+body .top-down .left .buttons{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body .top-down .left .buttons button{
+    border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+	height: 4rem;
+	position: relative;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 10rem;
+    padding: 0 1.2rem;
+    justify-content: center;
+    user-select: none;
+    vertical-align: bottom;
+    white-space: nowrap;
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 16px;
+	height:40px;
+	margin-top:20px;
+	margin-left:15px;
+}
+
+body .top-down .left .buttons button i{
+    padding-right:10px;
+}
+
+body .top-down .right .video{
+	background-color:white;
+	width:90%;
+	margin-top:30px;
+	height:60%;
+	
+}
+
+body .top-down .right .price{
+	background-color:white;
+	width:90%;
+	height:20%;
+}
+
+body .top-down .right .price p{
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 35px;
+	color:#1e1e1c;	
+	margin-left: 15px;
+}
+
+body .top-down .right .buttons{
+	background-color:white;
+	width:90%;
+	height:20%;
+}
+
+body .top-down .right .buttons .button{
+	border-color: #fff;
+    color: #fff;
+    background-color: transparent;
+	height: 4rem;
+	position: relative;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+    display: inline-flex;
+    min-width: 10rem;
+    padding: 0 1.2rem;
+    justify-content: center;
+    user-select: none;
+    vertical-align: bottom;
+    white-space: nowrap;
+	font-family: sf pro display,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+    font-weight: 700;
+    line-height: 1.2;
+    letter-spacing: -.02rem;
+    font-size: 16px;
+	height:40px;
+	margin-top:5px;
+	margin-left:15px;
+}
+
+body .top-down .right .buttons .cart{
+	background-color:#ec5252;
+	color:white;
+}
+
+body .top-down .right .buttons .cart:hover{
+	background-color:#e61b1b;
+	color:white;
+}
+
+body .top-down .right .buttons .buy{
+	color:#2196F3; 
+	border-color:#2196F3;
+}
